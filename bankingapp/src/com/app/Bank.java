@@ -21,6 +21,11 @@ public class Bank {
      {
     	 
      }
+
+	public void m2()
+	{
+		
+	}
 	
 
 }
