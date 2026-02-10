@@ -6,5 +6,10 @@ public class Bank {
 	{
 		
 	}
+	
+	public void checkBalance()
+	{
+		
+	}
 
 }
