@@ -12,4 +12,10 @@ public class Bank {
 		
 	}
 
+     public void deposite()
+	{
+		
+	}
+	
+
 }
